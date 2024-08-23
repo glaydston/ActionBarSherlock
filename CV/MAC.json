@@ -266,6 +266,12 @@
           "name": "Aprendizaje Continuo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Gestión de equipo",
+          "type": "practice"
+        }
       }
     ]
   },
