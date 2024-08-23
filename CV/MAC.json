@@ -272,6 +272,12 @@
           "name": "Gestión de equipo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Liderazgo",
+          "type": "practice"
+        }
       }
     ]
   },
