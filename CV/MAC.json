@@ -320,7 +320,13 @@
         "DevOps & Infrastructure & SRE"
       ]
     },
-    "status": "notAvailable"
+    "status": "notAvailable",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
