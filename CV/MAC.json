@@ -8,8 +8,8 @@
     "profile": {
       "name": "Glaydston",
       "surnames": "de Oliveira Veloso",
-      "title": "Co-founder at Coodesh | Empowering Developers to Enhance their Skills and Growth",
-      "description": "Glaydston es un consultor tecnológico con más de 10 años de experiencia en el mercado de desarrollo web, con especialización en portales de contenido, SEO y publicidad en línea.",
+      "title": "Co-founder at Coodesh | Skill based assessments for the digital future",
+      "description": "Glaydston tem mais de 10 anos de experiência no mercado de desenvolvimento web, com especialização em portais de conteúdo, SEO e publicidade online. Atualmente é o COO na Coodesh, empresa especializada em validação técnica e comportamental de pessoas desenvolvedoras.",
       "avatar": {
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/fce84655-5ef5-4b42-a7c3-ea08bb659e5f_linkedin-photo-60145.linkedin-photo-60145",
         "alt": "24/04/10/fce84655-5ef5-4b42-a7c3-ea08bb659e5f_linkedin-photo-60145.linkedin-photo-60145"
@@ -32,19 +32,15 @@
     "jobs": [
       {
         "organization": {
-          "name": "Coodesh",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/c148ea88-224d-46ae-b8f1-55244f33a41b_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/c148ea88-224d-46ae-b8f1-55244f33a41b_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Coodesh"
         },
         "roles": [
           {
-            "name": "COO",
-            "startDate": "2021-07-01",
+            "name": "Co-Founder",
+            "startDate": "2019-07-01",
             "challenges": [
               {
-                "description": "Coodesh es una plataforma que ayuda a las empresas a evaluar y contratar a los mejores desarrolladores para sus equipos."
+                "description": "A Coodesh é uma plataforma que ajuda empresas a avaliar e contratar os melhores desenvolvedores para o seus times."
               }
             ]
           }
@@ -52,20 +48,16 @@
       },
       {
         "organization": {
-          "name": "Grupo M Contigo S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/8dcaae94-323c-4cfa-bad3-bf426888ac9e_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/8dcaae94-323c-4cfa-bad3-bf426888ac9e_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Grupo MContigo"
         },
         "roles": [
           {
             "name": "CTO",
             "startDate": "2017-08-01",
-            "finishDate": "2021-07-31",
+            "finishDate": "2021-07-01",
             "challenges": [
               {
-                "description": "En esta posición, trabajé directamente con el CEO desarrollando nuevas tecnologías para las páginas y gestionando todo el equipo informático."
+                "description": "Nessa posição, trabalhei lado a lado com o CEO desenvolvendo novas tecnologias para os sites e gerenciando toda a equipe de TI"
               }
             ]
           }
@@ -73,20 +65,16 @@
       },
       {
         "organization": {
-          "name": "Tomorrow Science",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/479ffa3a-ab0f-44ab-8663-ae2125e98e1b_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/479ffa3a-ab0f-44ab-8663-ae2125e98e1b_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Tomorrow Science"
         },
         "roles": [
           {
-            "name": "Co-fundador",
+            "name": "Co-Founder",
             "startDate": "2016-05-01",
-            "finishDate": "2020-04-30",
+            "finishDate": "2020-04-01",
             "challenges": [
               {
-                "description": "Fundamos y desarrollamos Tomorrow Science, un sitio web de ciencia popular en Taiwán y Hong Kong con más de 140.000 seguidores en las redes sociales y más de 300.000 visitas mensuales a la página."
+                "description": "Fundamos e desenvolvemos o Tomorrow Science, um site de ciência popular em Taiwan e Hong Kong, com mais de 140.000 seguidores nas redes sociais e mais de 300.000 páginas vistas mensalmente."
               }
             ]
           }
@@ -94,20 +82,40 @@
       },
       {
         "organization": {
-          "name": "Novaclass Education",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/0f9af0ba-d7ff-41ce-8312-d62a9a8aa0a2_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/0f9af0ba-d7ff-41ce-8312-d62a9a8aa0a2_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Grupo MContigo "
         },
         "roles": [
           {
-            "name": "Cofundador",
+            "name": "Product Manager",
+            "startDate": "2016-02-01",
+            "finishDate": "2017-07-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grupo MContigo "
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2015-02-01",
+            "finishDate": "2016-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Novaclass Education"
+        },
+        "roles": [
+          {
+            "name": "Co-Founder",
             "startDate": "2014-05-01",
-            "finishDate": "2016-04-30",
+            "finishDate": "2016-04-01",
             "challenges": [
               {
-                "description": "En Novaclass trabajamos con un entorno interactivo de gestión del plan de aprendizaje, proporcionando estrategias de recursos empresariales y una indicación de contenido multimedia para ser utilizado por directores, profesores y estudiantes en instituciones educativas.\n\nEl mercado objetivo son las escuelas que desean aumentar los niveles de satisfacción de sus estudiantes porque hay varios profesores con falta de tiempo para preparar lecciones interactivas. Esto resulta en insatisfacción de los estudiantes porque los docentes no usan metodologías innovadoras. Desarrollar un plan de enseñanza interactivo con recursos de indicación de contenidos multimedia para ser utilizados por docentes y estudiantes donde los directores puedan monitorear desarrollos y retroalimentaciones. Ofrecemos planes personalizados."
+                "description": "Na Novaclass trabalhamos com um ambiente interativo de gerenciamento do plano de ensino, fornecendo estratégias de recursos empresariais e indicação de conteúdo multimídia a serem utilizados por diretores, professores e estudantes em instituições educacionais.  O mercado-alvo é as escolas que desejam aumentar os níveis de satisfação de seus alunos porque existem vários professores com falta de tempo para preparar lições interativas. Isso resulta na insatisfação dos estudantes porque os professores não usam metodologias inovadoras. Desenvolver um plano de ensino interativo com recursos de indicação de conteúdos multimídia a serem usados por professores e alunos onde os diretores podem monitorar desenvolvimentos e feedbacks. Oferecemos planos personalizados."
               }
             ]
           }
@@ -115,20 +123,33 @@
       },
       {
         "organization": {
-          "name": "Plansis Planejamento e Sistemas Ltda",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/84d9d873-170f-482f-8656-c57a83990602_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/84d9d873-170f-482f-8656-c57a83990602_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Plansis Planejamento e Sistemas Ltda"
         },
         "roles": [
           {
             "name": "Analista de Sistemas",
             "startDate": "2013-09-01",
-            "finishDate": "2015-03-31",
+            "finishDate": "2015-03-01",
             "challenges": [
               {
-                "description": "En Plansis, tuve la oportunidad de trabajar como Analista de Sistemas en diversos proyectos de diferentes empresas durante los 3 años que estuve en el equipo. Desarrollamos trabajamos de gran impacto en Ipiranga en el proyecto KVM de Ventajas, en las Drogarias Araújo con su proyecto de intranet y en Engie con diversos portales de contenido y desarrollo de plataformas de integración."
+                "description": "Na Plansis, tive a oportunidade de trabalhar como Analista de Sistemas em diversos projetos de diferentes em empresas durante os  3 anos que estive na equipe. Desenvolvemos trabalhamos de grande impacto na Ipiranga no projeto KVM de Vantagens, nas Drogarias Araújo com seu projeto de intranet e na Engie com diversos portais de conteúdo e desenvolvimento de plataformas de integração.  "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plansis Planejamento e Sistemas Ltda"
+        },
+        "roles": [
+          {
+            "name": "Estagiário",
+            "startDate": "2011-09-01",
+            "finishDate": "2013-08-01",
+            "challenges": [
+              {
+                "description": "Desenvolvendo sites usando o IBM Web Content Manager. Criação de modelos de autorias, modelos de apresentações, áreas do site, taxonomias, categorias, componentes e fluxos de trabalhos."
               }
             ]
           }
@@ -163,7 +184,49 @@
       },
       {
         "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
           "type": "technology"
         }
       },
@@ -175,7 +238,19 @@
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "R",
           "type": "technology"
         }
       },
@@ -187,7 +262,25 @@
       },
       {
         "skill": {
+          "name": "Scala",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tableau",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
           "type": "technology"
         }
       }
@@ -196,68 +289,52 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Experto en Big Data, Big Data",
-        "startDate": "2017-01-01",
-        "institution": {
-          "name": "Universidad Pontificia de Salamanca",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/c151f5d0-f95b-4b21-914d-d74cf3ce31da_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/c151f5d0-f95b-4b21-914d-d74cf3ce31da_linkedin-photo-60145.linkedin-photo-60145"
-          }
-        },
-        "finishDate": "2018-01-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Lengua Inglesa y Literacturas",
+        "name": "Bacharelado",
         "startDate": "2011-01-01",
         "institution": {
-          "name": "Wizard Vila da Serra"
-        },
-        "finishDate": "2013-01-01"
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Licenciatura, Sistemas de Informação",
-        "startDate": "2011-01-01",
-        "institution": {
-          "name": "Anhanguera Educacional",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/5b084aab-5098-433b-88fe-1cc6729b2311_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/5b084aab-5098-433b-88fe-1cc6729b2311_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Anhanguera Educacional"
         },
         "finishDate": "2014-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Língua Espanhola e Literaturas de Língua Espanhola",
+        "name": "Experto em Big Data",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Universidad Pontificia de Salamanca"
+        },
+        "finishDate": "2018-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Mestrado em Gestão de Sistemas de Informação",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Universidad de Salamanca"
+        },
+        "finishDate": "2017-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Universidad de Salamanca",
         "startDate": "2015-01-01",
         "institution": {
-          "name": "Universidad de Salamanca",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/6d26292f-72c5-4319-abbe-00c4bb6faf90_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/6d26292f-72c5-4319-abbe-00c4bb6faf90_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Universidad de Salamanca"
         },
         "finishDate": "2016-01-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Máster en Dirección de Sistemas de Información, Tecnologia da Informação",
-        "startDate": "2016-01-01",
+        "name": "Wizard Vila da Serra",
+        "startDate": "2011-01-01",
         "institution": {
-          "name": "Universidad de Salamanca",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/10/562ec266-580a-42b5-a114-10ce0d372603_linkedin-photo-60145.linkedin-photo-60145",
-            "alt": "24/04/10/562ec266-580a-42b5-a114-10ce0d372603_linkedin-photo-60145.linkedin-photo-60145"
-          }
+          "name": "Wizard Vila da Serra"
         },
-        "finishDate": "2017-01-01"
+        "finishDate": "2013-01-01"
       }
     ],
     "softSkills": [
