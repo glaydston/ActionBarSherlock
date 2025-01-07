@@ -7,7 +7,7 @@
   "aboutMe": {
     "profile": {
       "name": "Glaydston",
-      "surnames": "Veloso",
+      "surnames": "de Oliveira Veloso",
       "title": "Co-founder at Coodesh | Empowering Developers to Enhance their Skills and Growth",
       "description": "Glaydston es un consultor tecnológico con más de 10 años de experiencia en el mercado de desarrollo web, con especialización en portales de contenido, SEO y publicidad en línea.",
       "avatar": {
@@ -288,9 +288,6 @@
           "URL": "https://linkedin.com/in/glaydston",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "glaydston.oliveira@gmail.com"
       ]
     },
     "preferences": {
