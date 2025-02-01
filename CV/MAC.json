@@ -370,6 +370,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
           "name": "GitLab",
           "type": "technology"
         },
