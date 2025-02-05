@@ -220,6 +220,12 @@
       },
       {
         "skill": {
+          "name": "Azure DevOps",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Cloudflare",
           "type": "technology"
         }
