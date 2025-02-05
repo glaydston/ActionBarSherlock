@@ -220,6 +220,12 @@
       },
       {
         "skill": {
+          "name": "Cloudflare",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Docker",
           "type": "technology"
         }
@@ -323,6 +329,12 @@
       {
         "skill": {
           "name": "Terraform",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "UML",
           "type": "technology"
         }
       },
