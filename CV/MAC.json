@@ -232,6 +232,12 @@
       },
       {
         "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -275,6 +281,12 @@
       {
         "skill": {
           "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "New Relic",
           "type": "technology"
         }
       },
