@@ -474,10 +474,6 @@
           "type": "technology"
         },
         {
-          "name": "React",
-          "type": "technology"
-        },
-        {
           "name": "Terraform",
           "type": "technology"
         }
