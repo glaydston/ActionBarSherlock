@@ -184,7 +184,31 @@
       },
       {
         "skill": {
-          "name": "AngularJS",
+          "name": "AWS ECS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EKS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS SNS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Amazon SQS",
           "type": "technology"
         }
       },
@@ -196,13 +220,19 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Java",
+          "name": "Grafana",
           "type": "technology"
         }
       },
@@ -244,13 +274,31 @@
       },
       {
         "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "R",
+          "name": "OpenApi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prisma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prometheus",
           "type": "technology"
         }
       },
@@ -262,13 +310,13 @@
       },
       {
         "skill": {
-          "name": "Scala",
+          "name": "Redis",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Tableau",
+          "name": "Redshift",
           "type": "technology"
         }
       },
@@ -281,6 +329,12 @@
       {
         "skill": {
           "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
           "type": "technology"
         }
       }
