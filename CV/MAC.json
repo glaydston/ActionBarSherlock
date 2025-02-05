@@ -424,11 +424,15 @@
         "type": "technology"
       },
       {
-        "name": "NodeJS",
+        "name": "Kubernetes",
         "type": "technology"
       },
       {
-        "name": "React",
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
         "type": "technology"
       },
       {
