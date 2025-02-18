@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.5"
   },
   "aboutMe": {
@@ -424,19 +424,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Continuous learning",
+          "name": "Aprendizaje Continuo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Leadership skills",
+          "name": "Liderazgo",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Proactivity",
+          "name": "Proactividad",
           "type": "practice"
         }
       }
