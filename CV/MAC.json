@@ -387,11 +387,19 @@
         ],
         "relatedCompetences": [
           {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
             "name": "NextJS",
             "type": "technology"
           },
           {
             "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Swift",
             "type": "technology"
           }
         ]
