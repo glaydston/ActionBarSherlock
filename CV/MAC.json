@@ -102,6 +102,14 @@
             ],
             "competences": [
               {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
                 "name": "Elasticsearch",
                 "type": "technology"
               },
