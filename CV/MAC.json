@@ -706,10 +706,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Experto em Big Data",
+        "name": "Expert in Big Data",
         "startDate": "2017-01-01",
         "institution": {
-          "name": "Universidad Pontificia de Salamanca"
+          "name": "Universidad Pontificia de Salamanca",
+          "description": "In today's world, data is generated continuously, surfing the internet, moving around the city, shopping with cards, using public services... The amount of data continues to grow, and only those organizations able to convert this data into knowledge and value will be able to survive and grow in a more competitive environment.\nIn this postgraduate course, the main tools and technologies used by companies working with 'Big Data' will be studied. In addition, they will apply to real cases proposed by companies such as Telefónica I + D, IBM or Indra."
         },
         "finishDate": "2018-01-01"
       },
