@@ -79,7 +79,8 @@
       },
       {
         "organization": {
-          "name": "Grupo MContigo"
+          "name": "Grupo MContigo",
+          "URL": "https://mcontigo.com/en/"
         },
         "roles": [
           {
@@ -89,6 +90,36 @@
             "challenges": [
               {
                 "description": "Nessa posição, trabalhei lado a lado com o CEO desenvolvendo novas tecnologias para os sites e gerenciando toda a equipe de TI"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
               }
             ]
           }
