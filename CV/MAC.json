@@ -300,6 +300,32 @@
       },
       {
         "details": {
+          "name": "Atomik",
+          "description": "Developed a headless version using Next.js with WordPress for 100+ MContigo portals across 23 languages.",
+          "URL": "https://mejorconsalud.as.com/"
+        },
+        "type": "launch",
+        "publishingDate": "2020-12-01",
+        "tags": [
+          "Startup"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Kubernetes",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "WordPress",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Multi-language Content Linking at Scale (40K+ articles, 23 languages)",
           "description": "Connected 40,000+ articles across 23 languages by implementing an Elasticsearch-based discovery and linking system using tagging and similarity techniques, improving content relevance, navigation, and overall discoverability"
         },
