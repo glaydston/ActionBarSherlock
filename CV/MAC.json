@@ -188,7 +188,7 @@
           {
             "name": "Software Engineer",
             "startDate": "2015-03-01",
-            "finishDate": "2019-07-01",
+            "finishDate": "2018-01-01",
             "challenges": [
               {
                 "description": "Implemented a multilingual content linking system connecting 40,000+ articles in 23 languages using Elasticsearch, tagging, and similarity-based recommendations.\nReduced translation costs by automating a machine-translation + human review workflow across 23 languages (2017), increasing publishing speed and consistency."
@@ -696,10 +696,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Bacharelado",
+        "name": "Bachelor degree",
         "startDate": "2011-01-01",
         "institution": {
-          "name": "Anhanguera Educacional"
+          "name": "Anhanguera Educacional",
+          "description": "The course prepares professionals to work with Information Technology (IT) in all segments. In order to do so, it combines knowledge of computing with management, giving the student an important learning about the components of information systems - hardware, software, data, people and processes.\n\nIn addition, it helps to improve the automation, performance, efficiency and rationalization of the administrative services of the organizations, making the area of operation a strategic element of the company."
         },
         "finishDate": "2014-01-01"
       },
