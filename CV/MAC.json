@@ -182,23 +182,6 @@
       },
       {
         "organization": {
-          "name": "Novaclass Education"
-        },
-        "roles": [
-          {
-            "name": "Co-Founder",
-            "startDate": "2014-05-01",
-            "finishDate": "2016-04-01",
-            "challenges": [
-              {
-                "description": "Na Novaclass trabalhamos com um ambiente interativo de gerenciamento do plano de ensino, fornecendo estratégias de recursos empresariais e indicação de conteúdo multimídia a serem utilizados por diretores, professores e estudantes em instituições educacionais.  O mercado-alvo é as escolas que desejam aumentar os níveis de satisfação de seus alunos porque existem vários professores com falta de tempo para preparar lições interativas. Isso resulta na insatisfação dos estudantes porque os professores não usam metodologias inovadoras. Desenvolver um plano de ensino interativo com recursos de indicação de conteúdos multimídia a serem usados por professores e alunos onde os diretores podem monitorar desenvolvimentos e feedbacks. Oferecemos planos personalizados."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Kukac"
         },
         "roles": [
