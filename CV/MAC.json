@@ -190,6 +190,27 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Translation Cost Reduction via Automation + Human Review",
+          "description": "Reduced translation costs by automating a machine-translation + human-review workflow, scaling publication and quality control across 23 languages (2017) while increasing speed and consistency."
+        },
+        "type": "achievement",
+        "publishingDate": "2017-03-01",
+        "tags": [
+          "Translation"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
