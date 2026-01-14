@@ -229,7 +229,13 @@
             "finishDate": "2015-03-01",
             "challenges": [
               {
-                "description": "Na Plansis, tive a oportunidade de trabalhar como Analista de Sistemas em diversos projetos de diferentes em empresas durante os  3 anos que estive na equipe. Desenvolvemos trabalhamos de grande impacto na Ipiranga no projeto KVM de Vantagens, nas Drogarias Araújo com seu projeto de intranet e na Engie com diversos portais de conteúdo e desenvolvimento de plataformas de integração.  "
+                "description": "Delivered solutions across multiple client projects, focusing on enterprise portals, integrations, and scalable content platforms"
+              }
+            ],
+            "competences": [
+              {
+                "name": "IBM WebServer",
+                "type": "technology"
               }
             ]
           }
