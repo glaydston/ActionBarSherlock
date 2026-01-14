@@ -243,16 +243,22 @@
       },
       {
         "organization": {
-          "name": "Plansis Planejamento e Sistemas Ltda"
+          "name": "Kukac"
         },
         "roles": [
           {
-            "name": "Estagiário",
+            "name": "Intern",
             "startDate": "2011-09-01",
             "finishDate": "2013-08-01",
             "challenges": [
               {
-                "description": "Desenvolvendo sites usando o IBM Web Content Manager. Criação de modelos de autorias, modelos de apresentações, áreas do site, taxonomias, categorias, componentes e fluxos de trabalhos."
+                "description": "Built sites using IBM Web Content Manager and implemented templates, taxonomies, components, and workflows."
+              }
+            ],
+            "competences": [
+              {
+                "name": "IBM WebServer",
+                "type": "technology"
               }
             ]
           }
