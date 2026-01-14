@@ -589,6 +589,7 @@
         "name": "Terraform",
         "type": "technology"
       }
-    ]
+    ],
+    "goodPractices": "I’m intentional about engineering practices that keep teams fast and reliable over time. I follow GitFlow (or a lightweight variant when appropriate) to keep work structured, protect release branches, and make changes traceable through well-scoped pull requests and reviews.\n\nOn the delivery side, I treat CI/CD as a core capability: automated builds, linting, test suites, and repeatable deployments. I rely on feature flags/toggles to ship incrementally, reduce risk, and decouple releases from product rollouts. I also prioritize observability (logs/metrics/alerts) and post-incident learnings to continuously improve stability.\n\nFrom an infrastructure perspective, I apply FinOps principles to balance reliability and cost: right-sizing resources, removing waste, optimizing load balancers, setting scaling policies, and automating non-production environments (e.g., scheduling dev/staging to run only during business hours). My goal is to deliver scalable architectures that are both resilient and cost-efficient."
   }
 }
