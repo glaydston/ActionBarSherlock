@@ -97,10 +97,14 @@
             "finishDate": "2021-07-01",
             "challenges": [
               {
-                "description": "Nessa posição, trabalhei lado a lado com o CEO desenvolvendo novas tecnologias para os sites e gerenciando toda a equipe de TI"
+                "description": "Partnered with the CEO to define technology strategy and led an IT team delivering new platform capabilities and operational stability.  ￼\nReduced infrastructure costs by ~US$5,000/month through region migration, load balancer optimization, dev environment scheduling (business-hours on/off), and improved scaling controls.\nDelivered platform improvements focused on performance, reliability, and maintainability; strengthened engineering practices (code review, CI/CD, operational metrics).\n"
               }
             ],
             "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
               {
                 "name": "Android",
                 "type": "technology"
