@@ -41,7 +41,7 @@
             "startDate": "2019-07-01",
             "challenges": [
               {
-                "description": "In this position, plays a fundamental role by managing strategic projects\nusing technologies such as React.js, Next.js, Node.js, and Python to develop\nsolutions that incorporate artificial intelligence.\nImplements and optimizes mixed cloud infrastructure (AWS and Azure)\nthrough Terraform, ensuring system scalability and robustness."
+                "description": "Co-founded and scaled Coodesh to 300,000+ people assessed in 2 years, supporting skills-first hiring and technical/behavioral validation.\nLed end-to-end product delivery across React/Next.js, Node.js, and Python, including AI-enabled workflows for candidate assessment and matching.  ￼\nExecuted a zero-downtime infrastructure migration from Azure to AWS using Terraform, standardizing environments as code and improving deployment repeatability.\nApplied FinOps practices (right-sizing, scaling policies, environment scheduling) to reduce waste and improve cost predictability across cloud workloads.\nImproved reliability and delivery velocity by strengthening CI/CD, release discipline, and operational monitoring/alerting."
               }
             ],
             "competences": [
