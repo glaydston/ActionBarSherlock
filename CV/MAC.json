@@ -162,7 +162,7 @@
           "name": "AWS Cost Optimization",
           "description": "Reduced AWS spend by ~$5,000/month by migrating to a more cost-effective region, optimizing load balancers, tightening scalability controls, and introducing a scheduled dev environment (auto-on during business hours, auto-off outside working hours) to eliminate unnecessary consumption without impacting production reliability"
         },
-        "type": "launch",
+        "type": "achievement",
         "publishingDate": "2024-03-01",
         "tags": [
           "FinOps"
