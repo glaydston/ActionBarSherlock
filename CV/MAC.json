@@ -348,6 +348,17 @@
       },
       {
         "details": {
+          "name": "Atomik Lib",
+          "description": "Developed the monetization library powering 500K+ monthly pageviews across 100+ MContigo content portals, leveraging header bidding (Prebid) and integrating with multiple SSPs, including Google, Criteo, Teads, PubMatic, Rubicon, and AppNexus."
+        },
+        "type": "launch",
+        "publishingDate": "2020-10-01",
+        "tags": [
+          "Startup"
+        ]
+      },
+      {
+        "details": {
           "name": "Multi-language Content Linking at Scale (40K+ articles, 23 languages)",
           "description": "Connected 40,000+ articles across 23 languages by implementing an Elasticsearch-based discovery and linking system using tagging and similarity techniques, improving content relevance, navigation, and overall discoverability"
         },
