@@ -716,10 +716,11 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Mestrado em Gestão de Sistemas de Informação",
+        "name": "Master in Management of Information Systems",
         "startDate": "2016-01-01",
         "institution": {
-          "name": "Universidad de Salamanca"
+          "name": "Universidad de Salamanca",
+          "description": "The Master in Management of Information Systems at the University of Salamanca is aimed at people interested in acquiring the necessary knowledge to be able to direct and coordinate ICT projects aimed at the implementation and development of technological projects and software. In addition, thanks to the training received, it is easier to obtain the PMI (PMP and CAPM) certifications. The course is supported by Telefónica, Indra, Viewnext, Flag Solutions, Grupo Oesia, Juan Llorens, Nebusens, BeOnPrice, Stratesys, StageMotion, Sidisel, Caetra Studios, Big Bang Box and CSA, essential to give a practical point of view to the formation."
         },
         "finishDate": "2017-01-01"
       },
