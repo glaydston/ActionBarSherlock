@@ -47,10 +47,6 @@
             ],
             "competences": [
               {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
                 "name": "Android",
                 "type": "technology"
               },
