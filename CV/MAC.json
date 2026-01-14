@@ -300,6 +300,28 @@
       },
       {
         "details": {
+          "name": "Atomik Console",
+          "description": "Developed an admin dashboard to manage MContigo projects and track page monetization performance.",
+          "URL": "https://console.atomik.vip/"
+        },
+        "type": "launch",
+        "publishingDate": "2021-07-01",
+        "tags": [
+          "FinOps"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "Google AdManager",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Atomik",
           "description": "Developed a headless version using Next.js with WordPress for 100+ MContigo portals across 23 languages.",
           "URL": "https://mejorconsalud.as.com/"
