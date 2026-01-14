@@ -702,7 +702,7 @@
           "name": "Anhanguera Educacional",
           "description": "The course prepares professionals to work with Information Technology (IT) in all segments. In order to do so, it combines knowledge of computing with management, giving the student an important learning about the components of information systems - hardware, software, data, people and processes.\n\nIn addition, it helps to improve the automation, performance, efficiency and rationalization of the administrative services of the organizations, making the area of operation a strategic element of the company."
         },
-        "finishDate": "2014-01-01"
+        "finishDate": "2014-12-01"
       },
       {
         "studyType": "officialDegree",
@@ -811,7 +811,7 @@
         "Tech Lead"
       ]
     },
-    "status": "openToOffers",
+    "status": "searchingActively",
     "requirements": {
       "contractTypes": [
         "permanent",
