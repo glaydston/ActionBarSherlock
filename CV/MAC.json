@@ -272,6 +272,17 @@
       },
       {
         "details": {
+          "name": "Web Summit 2025 Pitch (Beta Stage)",
+          "description": "Delivered the Coodesh pitch at Web Summit 2024, Beta Stage, presenting the product value proposition, traction, and vision to a large audience of founders, partners, and investors."
+        },
+        "type": "talk",
+        "publishingDate": "2024-11-01",
+        "tags": [
+          "Startup"
+        ]
+      },
+      {
+        "details": {
           "name": "AWS Cost Optimization",
           "description": "Reduced AWS spend by ~$5,000/month by migrating to a more cost-effective region, optimizing load balancers, tightening scalability controls, and introducing a scheduled dev environment (auto-on during business hours, auto-off outside working hours) to eliminate unnecessary consumption without impacting production reliability"
         },
