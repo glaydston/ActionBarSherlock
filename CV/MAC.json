@@ -208,8 +208,23 @@
         "roles": [
           {
             "name": "Software Engineer",
-            "startDate": "2015-02-01",
-            "finishDate": "2016-01-01"
+            "startDate": "2015-03-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Implemented a multilingual content linking system connecting 40,000+ articles in 23 languages using Elasticsearch, tagging, and similarity-based recommendations.\nReduced translation costs by automating a machine-translation + human review workflow across 23 languages (2017), increasing publishing speed and consistency."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
