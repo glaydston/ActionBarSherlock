@@ -376,6 +376,28 @@
       },
       {
         "details": {
+          "name": "Courses for La mente es Maravillosa",
+          "description": "Developed the psychology courses platform for La Mente es Maravillosa, designed to monetize and expand into the education market for an audience of 3M monthly unique readers. \n The project was organized across multiple areas: \n- Marketing: campaign creation and promotion strategy; \n- Engineering: platform maintenance and delivery of new features; \n- Sales/Partnerships: sourcing instructors (psychology professionals) and building partnerships with universities.",
+          "URL": "http://cursos.lamenteesmaravillosa.com/"
+        },
+        "type": "launch",
+        "publishingDate": "2018-09-01",
+        "tags": [
+          "Startup"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Translation Cost Reduction via Automation + Human Review",
           "description": "Reduced translation costs by automating a machine-translation + human-review workflow, scaling publication and quality control across 23 languages (2017) while increasing speed and consistency."
         },
