@@ -32,7 +32,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Coodesh"
+          "name": "Coodesh",
+          "URL": "http://coodesh.com/en"
         },
         "roles": [
           {
@@ -40,7 +41,37 @@
             "startDate": "2019-07-01",
             "challenges": [
               {
-                "description": "A Coodesh é uma plataforma que ajuda empresas a avaliar e contratar os melhores desenvolvedores para o seus times."
+                "description": "In this position, plays a fundamental role by managing strategic projects\nusing technologies such as React.js, Next.js, Node.js, and Python to develop\nsolutions that incorporate artificial intelligence.\nImplements and optimizes mixed cloud infrastructure (AWS and Azure)\nthrough Terraform, ensuring system scalability and robustness."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Gitflow",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
               }
             ]
           }
