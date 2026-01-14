@@ -207,18 +207,6 @@
         },
         "roles": [
           {
-            "name": "Product Manager",
-            "startDate": "2016-02-01",
-            "finishDate": "2017-07-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Grupo MContigo "
-        },
-        "roles": [
-          {
             "name": "Software Engineer",
             "startDate": "2015-02-01",
             "finishDate": "2016-01-01"
