@@ -304,7 +304,7 @@
           "description": "Connected 40,000+ articles across 23 languages by implementing an Elasticsearch-based discovery and linking system using tagging and similarity techniques, improving content relevance, navigation, and overall discoverability"
         },
         "type": "achievement",
-        "publishingDate": "2019-08-01",
+        "publishingDate": "2019-05-01",
         "tags": [
           "NLP"
         ],
