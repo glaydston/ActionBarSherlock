@@ -182,6 +182,37 @@
       },
       {
         "organization": {
+          "name": "Grupo MContigo"
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2015-03-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Implemented a multilingual content linking system connecting 40,000+ articles in 23 languages using Elasticsearch, tagging, and similarity-based recommendations.\nReduced translation costs by automating a machine-translation + human review workflow across 23 languages (2017), increasing publishing speed and consistency."
+              }
+            ],
+            "competences": [
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Kukac"
         },
         "roles": [
