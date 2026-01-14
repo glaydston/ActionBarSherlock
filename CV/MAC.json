@@ -371,6 +371,22 @@
     ],
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "AWS Certified Solutions Architect – Associate",
+        "startDate": "2025-01-01",
+        "institution": {
+          "name": "AWS",
+          "URL": "https://credly.com/badges/83a87fc1-c1aa-4c84-97b8-0ca8063e28e7/linked_in_profile"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Bacharelado",
