@@ -32,6 +32,66 @@
     "jobs": [
       {
         "organization": {
+          "name": "Grupo MContigo",
+          "URL": "https://mcontigo.com/en/"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2019-08-01",
+            "finishDate": "2021-07-01",
+            "challenges": [
+              {
+                "description": "Partnered with the CEO to define technology strategy and led an IT team delivering new platform capabilities and operational stability.  ￼\nReduced infrastructure costs by ~US$5,000/month through region migration, load balancer optimization, dev environment scheduling (business-hours on/off), and improved scaling controls.\nDelivered platform improvements focused on performance, reliability, and maintainability; strengthened engineering practices (code review, CI/CD, operational metrics).\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Coodesh",
           "URL": "http://coodesh.com/en"
         },
@@ -79,66 +139,6 @@
               },
               {
                 "name": "Terraform",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Grupo MContigo",
-          "URL": "https://mcontigo.com/en/"
-        },
-        "roles": [
-          {
-            "name": "CTO",
-            "startDate": "2017-08-01",
-            "finishDate": "2021-07-01",
-            "challenges": [
-              {
-                "description": "Partnered with the CEO to define technology strategy and led an IT team delivering new platform capabilities and operational stability.  ￼\nReduced infrastructure costs by ~US$5,000/month through region migration, load balancer optimization, dev environment scheduling (business-hours on/off), and improved scaling controls.\nDelivered platform improvements focused on performance, reliability, and maintainability; strengthened engineering practices (code review, CI/CD, operational metrics).\n"
-              }
-            ],
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Apple iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Elasticsearch",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "MongoDB",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Terraform",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
                 "type": "technology"
               }
             ]
