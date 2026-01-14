@@ -159,6 +159,31 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Cloud Migration (Azure → AWS) with Terraform — Zero Downtime",
+          "description": "Led the migration of Coodesh’s infrastructure from Azure to AWS using Terraform, executing a phased cutover strategy to ensure zero downtime. Standardized environments as code, improved repeatability across deployments, and reduced operational risk through automated provisioning and controlled traffic switching."
+        },
+        "type": "achievement",
+        "publishingDate": "2025-12-01",
+        "tags": [
+          "DevOps"
+        ],
+        "relatedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Terraform",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "AWS Cost Optimization",
           "description": "Reduced AWS spend by ~$5,000/month by migrating to a more cost-effective region, optimizing load balancers, tightening scalability controls, and introducing a scheduled dev environment (auto-on during business hours, auto-off outside working hours) to eliminate unnecessary consumption without impacting production reliability"
         },
