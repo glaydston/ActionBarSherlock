@@ -377,7 +377,8 @@
         "startDate": "2025-01-01",
         "institution": {
           "name": "AWS",
-          "URL": "https://credly.com/badges/83a87fc1-c1aa-4c84-97b8-0ca8063e28e7/linked_in_profile"
+          "description": "The AWS Certified Solutions Architect – Associate proves proficiency in architecting workloads on AWS using managed services, high availability and resiliency, security and governance (IAM/KMS), networking (VPC, load balancers, Route 53, CloudFront), compute (EC2, ECS/Fargate, Lambda), storage & data (S3, EBS, RDS, DynamoDB), and observability & automation. Emphasis on trade-offs across cost, performance, and reliability, following Well-Architected best practices.",
+          "URL": "https://www.credly.com/badges/83a87fc1-c1aa-4c84-97b8-0ca8063e28e7/linked_in_profile"
         },
         "linkedCompetences": [
           {
