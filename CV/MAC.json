@@ -147,6 +147,45 @@
       },
       {
         "organization": {
+          "name": "Grupo MContigo"
+        },
+        "roles": [
+          {
+            "name": "Lead Software Engineer",
+            "startDate": "2018-02-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "Built and evolved high-traffic web systems, focusing on performance, maintainability, and production readiness.\nDesigned multilingual content discovery features and improved information architecture for better navigation and engagement.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
+                "name": "GitLab",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Tomorrow Science"
         },
         "roles": [
