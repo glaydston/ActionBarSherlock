@@ -186,23 +186,6 @@
       },
       {
         "organization": {
-          "name": "Tomorrow Science"
-        },
-        "roles": [
-          {
-            "name": "Co-Founder",
-            "startDate": "2016-05-01",
-            "finishDate": "2020-04-01",
-            "challenges": [
-              {
-                "description": "Fundamos e desenvolvemos o Tomorrow Science, um site de ciência popular em Taiwan e Hong Kong, com mais de 140.000 seguidores nas redes sociais e mais de 300.000 páginas vistas mensalmente."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Novaclass Education"
         },
         "roles": [
